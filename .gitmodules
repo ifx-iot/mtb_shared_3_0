@@ -19,3 +19,6 @@
 [submodule "core-lib/release-v1.3.1"]
 	path = core-lib/release-v1.3.1
 	url = https://github.com/cypresssemiconductorco/core-lib
+[submodule "lwip/STABLE-2_1_2_RELEASE"]
+	path = lwip/STABLE-2_1_2_RELEASE
+	url = https://git.savannah.nongnu.org/git/lwip

@@ -16,3 +16,6 @@
 [submodule "secure-sockets/release-v2.5.0"]
 	path = secure-sockets/release-v2.5.0
 	url = https://github.com/cypresssemiconductorco/secure-sockets
+[submodule "core-lib/release-v1.3.1"]
+	path = core-lib/release-v1.3.1
+	url = https://github.com/cypresssemiconductorco/core-lib

@@ -52,3 +52,6 @@
 [submodule "retarget-io/release-v1.3.0"]
 	path = retarget-io/release-v1.3.0
 	url = https://github.com/cypresssemiconductorco/retarget-io
+[submodule "bluetooth-freertos/release-v3.4.0"]
+	path = bluetooth-freertos/release-v3.4.0
+	url = https://github.com/cypresssemiconductorco/bluetooth-freertos

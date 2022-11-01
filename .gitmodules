@@ -10,3 +10,6 @@
 [submodule "mtb-hal-cat4/release-v0.5.0"]
 	path = mtb-hal-cat4/release-v0.5.0
 	url = https://github.com/Infineon/mtb-hal-cat4
+[submodule "mbedtls/mbedtls-2.25.0"]
+	path = mbedtls/mbedtls-2.25.0
+	url = https://github.com/ARMmbed/mbedtls

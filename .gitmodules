@@ -55,3 +55,6 @@
 [submodule "bluetooth-freertos/release-v3.4.0"]
 	path = bluetooth-freertos/release-v3.4.0
 	url = https://github.com/cypresssemiconductorco/bluetooth-freertos
+[submodule "command-console/release-v3.2.0"]
+	path = command-console/release-v3.2.0
+	url = https://github.com/cypresssemiconductorco/command-console

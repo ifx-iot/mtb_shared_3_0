@@ -49,3 +49,6 @@
 [submodule "core-make/release-v1.9.1"]
 	path = core-make/release-v1.9.1
 	url = https://github.com/cypresssemiconductorco/core-make
+[submodule "retarget-io/release-v1.3.0"]
+	path = retarget-io/release-v1.3.0
+	url = https://github.com/cypresssemiconductorco/retarget-io

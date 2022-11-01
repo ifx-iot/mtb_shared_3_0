@@ -4,3 +4,6 @@
 [submodule "recipe-make-cat4/release-v1.0.0"]
 	path = recipe-make-cat4/release-v1.0.0
 	url = https://github.com/Infineon/recipe-make-cat4
+[submodule "wifi-host-driver/release-v2.5.0"]
+	path = wifi-host-driver/release-v2.5.0
+	url = https://github.com/cypresssemiconductorco/wifi-host-driver

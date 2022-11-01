@@ -61,3 +61,6 @@
 [submodule "wifi-connection-manager/release-v2.3.0"]
 	path = wifi-connection-manager/release-v2.3.0
 	url = https://github.com/cypresssemiconductorco/wifi-connection-manager
+[submodule "TARGET_CYW943907AEVAL1F/release-v0.5.0"]
+	path = TARGET_CYW943907AEVAL1F/release-v0.5.0
+	url = https://github.com/Infineon/TARGET_CYW943907AEVAL1F

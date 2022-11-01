@@ -46,3 +46,6 @@
 [submodule "wifi-mw-core/release-v3.4.0"]
 	path = wifi-mw-core/release-v3.4.0
 	url = https://github.com/cypresssemiconductorco/wifi-mw-core
+[submodule "core-make/release-v1.9.1"]
+	path = core-make/release-v1.9.1
+	url = https://github.com/cypresssemiconductorco/core-make

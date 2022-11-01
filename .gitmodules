@@ -34,3 +34,6 @@
 [submodule "freertos/release-v10.4.304"]
 	path = freertos/release-v10.4.304
 	url = https://github.com/cypresssemiconductorco/freertos
+[submodule "cy-mbedtls-acceleration/release-v1.4.1"]
+	path = cy-mbedtls-acceleration/release-v1.4.1
+	url = https://github.com/Infineon/cy-mbedtls-acceleration

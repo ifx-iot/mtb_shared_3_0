@@ -31,3 +31,6 @@
 [submodule "connectivity-utilities/release-v3.2.1"]
 	path = connectivity-utilities/release-v3.2.1
 	url = https://github.com/cypresssemiconductorco/connectivity-utilities
+[submodule "freertos/release-v10.4.304"]
+	path = freertos/release-v10.4.304
+	url = https://github.com/cypresssemiconductorco/freertos

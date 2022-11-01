@@ -40,3 +40,6 @@
 [submodule "abstraction-rtos/release-v1.6.0"]
 	path = abstraction-rtos/release-v1.6.0
 	url = https://github.com/cypresssemiconductorco/abstraction-rtos
+[submodule "wpa3-external-supplicant/release-v1.1.0"]
+	path = wpa3-external-supplicant/release-v1.1.0
+	url = https://github.com/Infineon/wpa3-external-supplicant

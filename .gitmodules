@@ -28,3 +28,6 @@
 [submodule "whd-bsp-integration/release-v2.1.0"]
 	path = whd-bsp-integration/release-v2.1.0
 	url = https://github.com/cypresssemiconductorco/whd-bsp-integration
+[submodule "connectivity-utilities/release-v3.2.1"]
+	path = connectivity-utilities/release-v3.2.1
+	url = https://github.com/cypresssemiconductorco/connectivity-utilities

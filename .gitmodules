@@ -25,3 +25,6 @@
 [submodule "btstack/release-v3.5.0"]
 	path = btstack/release-v3.5.0
 	url = https://github.com/cypresssemiconductorco/btstack
+[submodule "whd-bsp-integration/release-v2.1.0"]
+	path = whd-bsp-integration/release-v2.1.0
+	url = https://github.com/cypresssemiconductorco/whd-bsp-integration

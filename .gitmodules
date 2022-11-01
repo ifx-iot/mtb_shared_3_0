@@ -13,3 +13,6 @@
 [submodule "mbedtls/mbedtls-2.25.0"]
 	path = mbedtls/mbedtls-2.25.0
 	url = https://github.com/ARMmbed/mbedtls
+[submodule "secure-sockets/release-v2.5.0"]
+	path = secure-sockets/release-v2.5.0
+	url = https://github.com/cypresssemiconductorco/secure-sockets

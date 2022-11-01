@@ -1,3 +1,6 @@
 [submodule "clib-support/release-v1.3.0"]
 	path = clib-support/release-v1.3.0
 	url = https://github.com/cypresssemiconductorco/clib-support
+[submodule "recipe-make-cat4/release-v1.0.0"]
+	path = recipe-make-cat4/release-v1.0.0
+	url = https://github.com/Infineon/recipe-make-cat4

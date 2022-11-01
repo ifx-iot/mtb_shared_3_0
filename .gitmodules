@@ -22,3 +22,6 @@
 [submodule "lwip/STABLE-2_1_2_RELEASE"]
 	path = lwip/STABLE-2_1_2_RELEASE
 	url = https://git.savannah.nongnu.org/git/lwip
+[submodule "btstack/release-v3.5.0"]
+	path = btstack/release-v3.5.0
+	url = https://github.com/cypresssemiconductorco/btstack

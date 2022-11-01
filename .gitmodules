@@ -43,3 +43,6 @@
 [submodule "wpa3-external-supplicant/release-v1.1.0"]
 	path = wpa3-external-supplicant/release-v1.1.0
 	url = https://github.com/Infineon/wpa3-external-supplicant
+[submodule "wifi-mw-core/release-v3.4.0"]
+	path = wifi-mw-core/release-v3.4.0
+	url = https://github.com/cypresssemiconductorco/wifi-mw-core
